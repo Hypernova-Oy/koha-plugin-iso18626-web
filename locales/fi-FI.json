@@ -1,0 +1,11 @@
+{
+  "world": "the world!",
+  "greet user (name)": "Terve, {name}!",
+  "hello": "Hello there",
+  "menu": {
+    "login": "Login to menu"
+  },
+  "errors": [
+
+  ]
+}
