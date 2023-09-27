@@ -93,7 +93,6 @@ import SupportIcon from './icons/IconSupport.vue'
 import { useI18n } from 'vue-i18n'
 
 
-// use global scope
 const { t, d, n } = useI18n({
   inheritLocale: true,
   useScope: 'global',
